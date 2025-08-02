@@ -1,0 +1,6 @@
+flask
+pandas
+scikit-learn
+torch
+torch-geometric
+networkx
